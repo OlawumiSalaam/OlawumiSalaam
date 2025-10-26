@@ -4,7 +4,7 @@
 Data Scientist | Machine Learning Engineer | MLOps | Open Source Contributor | Women Techsters Fellow | Outreachy ’24 Alum
 
 
-I am Olawumi Salaam, a data professional Data with over 2 years experience in Data Science, Machine Learning, and AI. Currently, I am focused on building scalable data solutions and transforming raw data into actionable insights. Driven by a passion for continuous learning and technological advancement, I enjoy working on projects that challenge me to grow and innovate.
+I am Olawumi Salaam, a data professional with over 2 years experience in Data Science, Machine Learning, and AI. Currently, I am focused on building scalable data solutions and transforming raw data into actionable insights. Driven by a passion for continuous learning and technological advancement, I enjoy working on projects that challenge me to grow and innovate.
 Let us connect and collaborate on exciting data-driven projects!
 Here are some ideas to get you started:
 
